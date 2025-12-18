@@ -26,13 +26,15 @@ It is designed as a beginner-friendly hardware + firmware project and can be use
 ### Mechanical Switches
 - **Cherry MX 5-pin switches (Silent Red)**  
   Link:  
-  https://www.thecosmicbyte.com/product/cherry-mx-mechancial-5-pin-switches-compatible-with-hot-swappable-keyboards-pack-of-10/?attribute_pa_switch-type=mx-silent-red&utm_source=Bing%20Shopping&utm_campaign=Bingfeeds&utm_medium=cpc&utm_term=78989 %6 With Shipping 
+  https://www.thecosmicbyte.com/product/cherry-mx-mechancial-5-pin-switches-compatible-with-hot-swappable-keyboards-pack-of-10/?attribute_pa_switch-type=mx-silent-red&utm_source=Bing%20Shopping&utm_campaign=Bingfeeds&utm_medium=cpc&utm_term=78989 $6 With Shipping 
 
 ### Other Parts
 - SK6812 RGB LEDs (5 pcs) $1 From My Local Shop 
 - Rotary encoder wih switch  $2 from my local shop 
 - [0.96" I2C OLED display](https://robu.in/product/0-96-oled-display-module/) - $3 with shipping  
 - Custom PCB (JLCPCB – approx **$11 USD** for prototype with shiping )
+
+   GRAND TOTAL = 6+6+1+2+3+11 = 39 => ~$40
 
 ---
 
